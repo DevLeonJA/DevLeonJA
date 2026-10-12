@@ -4,7 +4,7 @@
 
 <p align="center">
   I'm a <strong>Computer Science Engineering</strong> student (Software branch) and a <strong>beginner in web development</strong>, passionate about building online communities.<br>
-  I have an academic foundation in <strong>Java</strong> and <strong>C++</strong>, and am now applying that knowledge to the modern web stack.
+  I have an academic foundation in <strong>Java</strong> and <strong>C++</strong>, and I'm currently expanding my skills into the modern web stack and <strong>Local AI</strong>.
 </p>
 
 ---
@@ -19,10 +19,18 @@ If you like the idea, check out the repository and leave it a star! ⭐
 
 ---
 
+## 🧠 Recent Explorations: [Local RAG System 📚](https://github.com/DevLeonJA/RAG_LLM)
+
+I recently built a **100% offline Retrieval-Augmented Generation (RAG) engine** to chat with my university notes. 
+- Built with **Python**, **LlamaIndex**, and **Ollama**.
+- Uses the **IBM Granite** model, specially optimized for hardware with limited resources (4GB VRAM).
+- Capable of reading `.pdf`, `.docx`, `.txt`, and `.odt` files while keeping all data completely private on my machine.
+
+---
+
 ## 💻 My Current Tech Stack (Learning & Focusing)
 
-As I'm new to web dev, I am currently diving deep and learning this modern stack for my `inazuma-foro` project:
-
+### 🌐 Web Development
 <p align="left">
   <a href="https://nextjs.org/">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
@@ -39,8 +47,15 @@ As I'm new to web dev, I am currently diving deep and learning this modern stack
   <a href="https://react.dev/">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
+
+### 🤖 AI & Scripting
+<p align="left">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://ollama.com/">
+    <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama">
   </a>
 </p>
 
@@ -48,7 +63,7 @@ As I'm new to web dev, I am currently diving deep and learning this modern stack
 
 ## 🖥️ Language Skills (Academic Background)
 
-These are the languages I have a solid foundation in, thanks to my Computer Science studies:
+These are the core languages I have a solid foundation in thanks to my Computer Science studies:
 
 <p align="left">
   <a href="https://isocpp.org/">
@@ -57,21 +72,23 @@ These are the languages I have a solid foundation in, thanks to my Computer Scie
   <a href="https://www.java.com/">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  </a>
 </p>
 
 ---
 
 ## ⚡ Interests
 
-* ⚽ **Inazuma Eleven:** My main inspiration for my current project.
-* 💻 **Full-Stack Development:** I love connecting a frontend with a powerful backend like Supabase.
-* 🎌 **Anime & Gaming.**
+- ⚽ **Inazuma Eleven:** My main inspiration for my current project.
+- 💻 **Full-Stack Development:** I love connecting a frontend with a powerful backend like Supabase.
+- 🧠 **Local AI & LLMs:** Exploring how to run AI models efficiently on limited hardware.
+- 🎌 **Anime & Gaming.**
 
 ---
 
 ## 📊 My GitHub Stats
-
-*(These stats will update automatically with your activity)*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=julexo&show_icons=true&theme=dark&icon_color=0ea5e9&text_color=ffffff&bg_color=0d1117&border_color=30363d" alt="julexo's GitHub stats" />
